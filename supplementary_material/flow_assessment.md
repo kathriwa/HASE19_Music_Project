@@ -1,5 +1,9 @@
 # Flow Assessment
 
+Based on the short flow questionnaire in **Martin, A. J., & Jackson, S. A. (2008). Brief approaches to assessing task 
+absorption and enhanced subjective experience: Examining ‘short’and ‘core’flow in diverse performance domains. 
+Motivation and Emotion, 32(3), 141-157.**
+
 Rate these statements according to your feelings while solving the tasks: from 1 (strongly disagree) to 7 (strongly agree)
 
 1. I feel I am competent enough to meet the high demands of the situation
