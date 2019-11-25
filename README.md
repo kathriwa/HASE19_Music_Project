@@ -5,3 +5,12 @@ Human Aspects in Software Engineering (HASE). For confidentiality reasons, the d
 
 The notebook-file `eeg_analysis.ipynb` data files are expected to be named in the following convention:
 `<ID>_<Task No>_<break|programming>.csv`
+
+## Overview of the supplemental material
+
+Files in `supplementary_material`:
+
+- Interview questions
+- List of levels for the programming tasks
+- Flow assessment statements
+- Questions of the demographic survey
